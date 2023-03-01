@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 As a ________, I want ________ so that ________.
+< Provide detail as needed >
 
 ## Definition of Ready:
 
