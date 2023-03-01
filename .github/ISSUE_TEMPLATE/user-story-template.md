@@ -1,6 +1,6 @@
 ---
-name: 'short title'
-about: 'long title'
+name: 'Write a User Story'
+about: 'Write a User Story'
 title: ''
 labels: ''
 assignees: ''
