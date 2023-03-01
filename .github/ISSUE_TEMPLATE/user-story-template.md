@@ -10,6 +10,12 @@ assignees: ''
 As a ________, I want ________ so that ________.
 < Provide detail as needed >
 
+## Acceptance Criteria 
+
+- [ ] Test #1
+- [ ] Test #2
+
+
 ## Definition of Ready:
 
 - [ ] User story is small enough to be finished within one sprint
