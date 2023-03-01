@@ -1,6 +1,6 @@
 ---
-name: ''
-about: ''
+name: 'short title'
+about: 'long title'
 title: ''
 labels: ''
 assignees: ''
