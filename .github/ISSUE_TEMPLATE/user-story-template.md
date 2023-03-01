@@ -1,6 +1,6 @@
 ---
-name: User Story Template
-about: Template for a user story
+name: 
+about: 
 title: ''
 labels: ''
 assignees: ''
@@ -23,3 +23,8 @@ As a ________, I want ________ so that ________.
 - [ ] Integration tests have been run successfully 
 - [ ] Documentation has been updated
 - [ ] Release notes have been updated
+
+## Tasks 
+
+- [ ] Task #1
+- [ ] Task #2
