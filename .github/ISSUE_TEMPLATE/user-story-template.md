@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Standard User Story
-about: Template for user story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 As a ________, I want ________ so that ________.
 
 ## Definition of Ready:
